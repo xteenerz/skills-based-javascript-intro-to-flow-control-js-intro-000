@@ -21,5 +21,3 @@ function ageChecker(age) {
     return "You are a grownup"
   }
 }
-
-
